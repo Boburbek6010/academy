@@ -4,6 +4,8 @@ import 'moduls/medical_class.dart';
 
 void main() {
 
+  //all in one
+
   Medicine operator = Operator();
   operator.name = 'Doctor';
   operator.surgery();
