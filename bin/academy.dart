@@ -2,7 +2,6 @@ import 'moduls/IT_class.dart';
 import 'moduls/football_class.dart';
 import 'moduls/medical_class.dart';
 
-
 void main() {
 
   Medicine operator = Operator();
